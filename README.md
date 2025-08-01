@@ -3,7 +3,7 @@
 This project focuses on cleaning and analyzing a real-world dataset of global tech layoffs using **MySQL**. The goal is to derive meaningful insights about the impact, trends, and patterns of layoffs across the tech industry.
 
 ## 📊 Dataset
-- **Source**: [layoffs.csv](./layoffs.csv)
+- **Source**: [layoffs.csv](https://github.com/alex1198/Tech-Layoffs-EDA/blob/main/layoffs.csv)
 - **Fields**: Company, Location, Date, Number of Laid Off Employees, Total Employees, Industry, etc.
 
 ## 🧹 Data Cleaning

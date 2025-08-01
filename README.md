@@ -14,7 +14,7 @@ Performed comprehensive data cleaning using MySQL:
 - Handled missing values logically (e.g., imputation, removal).
 - Created a clean, normalized table for analysis.
 
-Script: [`Data Cleaning.sql`](./Data%20Cleaning.sql)
+Script: [`Data Cleaning.sql`](https://github.com/alex1198/Tech-Layoffs-EDA/blob/main/Data%20Cleaning.sql)
 
 ## 📈 Exploratory Data Analysis (EDA)
 Analyzed cleaned data to extract insights:

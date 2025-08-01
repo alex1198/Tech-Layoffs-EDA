@@ -23,7 +23,7 @@ Analyzed cleaned data to extract insights:
 - Impact on startups vs. large tech companies.
 - Analysis of funding rounds in relation to layoffs.
 
-Script: [`Exploratory Data Analysis.sql`](./Exploratory%20Data%20Analysis.sql)
+Script: [`Exploratory Data Analysis.sql`](https://github.com/alex1198/Tech-Layoffs-EDA/blob/main/Exploratory%20Data%20Analysis.sql)
 
 ## 🛠️ Tools Used
 - **MySQL** – for data cleaning and EDA.
@@ -41,7 +41,3 @@ Script: [`Exploratory Data Analysis.sql`](./Exploratory%20Data%20Analysis.sql)
 3. Run the cleaning script first.
 4. Execute EDA queries for insights.
 
-## 📬 Contact
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) for collaboration or questions.
-
----
